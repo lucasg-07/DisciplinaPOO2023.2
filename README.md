@@ -17,5 +17,6 @@
 
 ## Equipe:
 
-### Lucas Gonzaga Andrade  
-### Kaike Bezerra Leite Brandão
+### Lucas Gonzaga Andrade 
+- https://github.com/lucasg-07
+### Kaike Bezerra Leite Brandão 
