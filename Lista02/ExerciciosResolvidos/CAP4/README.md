@@ -278,5 +278,46 @@ A classificação, de acordo com a tabela a seguir:
 | Entre R$ 350,00 e R$ 600,00   | Normal           |
 | Maior que R$ 600,00           | Bem remunerado   |
 
+ Questão | Enunciado |
+| ------- | --------- |  
+| 24 | Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: O valor adicional, de acordo com a tabela a seguir: |
 
-| 24 | Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado. |
+| Tipo de Refrigeração | Preço           | Valor Adicional  |
+| --------------------- | --------------- | ---------------- |
+| N                     | < R$ 15,00      | R$ 2,00           |
+|                       | >= R$ 15,00     | R$ 5,00           |
+| L                     | < R$ 10,00      | R$ 1,50           |
+|                       | >= R$ 10,00     | R$ 2,50           |
+| V                     | < R$ 30,00      | R$ 3,00           |
+|                       | >= R$ 30,00     | R$ 2,50           |
+| S                     | A R$ 8,00       | -                 |
+|                       | L R$ 0,00       | -                 |
+|                       | V R$ 0,00       | -                 |
+
+O valor do imposto, de acordo com a regra a seguir.
+
+| Preço            | Percentual sobre o Preço  |
+| ---------------- | --------------------------|
+| Menor que R$ 25,00  | 5%                     |
+| Maior ou igual a R$ 25,00 | 8%               |
+
+
+- O preço de custo, ou seja, preço mais imposto.
+- O desconto, de acordo com a regra a seguir.
+O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário,
+0 (zero).
+Os requisitos são:
+- Tipo: A
+- Refrigeração: S
+- O novo preço, ou seja, preço de custo mais adicional menos desconto.
+- A classificação, de acordo com a regra a seguir.
+
+| Novo Preço                         | Classificação  |
+| ---------------------------------- | -------------- |
+| Menor ou igual a R$ 50,00          | Barato         |
+| Entre R$ 50,00 e R$ 100,00         | Normal         |
+| Maior ou igual a R$ 100,00         | Caro           |
+
+| Questão | Enunciado |
+| ------- | --------- |
+| 25 | Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário). |
