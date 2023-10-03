@@ -1,40 +1,40 @@
 | Questão | Enunciado |
 | ------- | --------- |
-| 03 | Faça um programa que receba a idade de oito pessoas, calcule e mostre: a) a quantidade de pessoas em cada faixa etária; b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas. c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas. |
+| 03 | Faça um programa que receba dois números e mostre o menor. |
+| 04 | Faça um programa que receba três números e mostre o maior. |
+| 12 | Faça um programa que receba o salário bruto de um funcionário e, usando a tabela a seguir, calcule e mostre o valor a receber. Sabe-se que este é composto pelo salário bruto acrescido de gratificação e descontado o imposto de 7% sobre o salário. |
 
-| Faixa Etária | Idade               |
-|--------------|---------------------|
-| 1ª          | Até 15 anos         |
-| 2ª          | De 16 a 30 anos     |
-| 3ª          | De 31 a 45 anos     |
-| 4ª          | De 46 a 60 anos     |
-| 5ª          | Acima de 60 anos    |
-
-| Questão | Enunciado |
-| ------- | --------- |
-| 04 | Faça um programa que receba um número, calcule e mostre a tabuada desse número. |
-| 12 | Faça um programa que receba dez números inteiros e mostre a quantidade de números primos dentre os números que foram digitados. |
-| 21 | Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são: |
-
-| Número do Candidato | Opção                     |
-|---------------------|---------------------------|
-| 1                   | Voto para o candidato 1   |
-| 2                   | Voto para o candidato 2   |
-| 3                   | Voto para o candidato 3   |
-| 4                   | Voto para o candidato 4   |
-| 5                   | Voto nulo                 |
-| 6                   | Voto em branco            |
-
-- Faça um programa que calcule e mostre:
-- ■ o total de votos para cada candidato;
-- ■ o total de votos nulos;
-- ■ o total de votos em branco;
-- ■ a porcentagem de votos nulos sobre o total de votos; e
-- ■ a porcentagem de votos em branco sobre o total de votos.
-- Para finalizar o conjunto de votos, tem-se o valor zero e, para códigos inválidos, o programa deverá
-mostrar uma mensagem.
+| Salário                   | Gratificação    |
+|---------------------------|-----------------|
+| Até R$ 350,00             | R$ 100,00       |
+| De R$ 350,01 a R$ 600,00  | R$ 75,00        |
+| De R$ 600,01 a R$ 900,00  | R$ 50,00        |
+| Acima de R$ 900,00        | R$ 35,00        |
 
 | Questão | Enunciado |
 | ------- | --------- |
-| 22 | Faça um programa que receba a idade e a altura de várias pessoas, calcule e mostre a média das alturas daquelas com mais de 50 anos. Para encerrar a entrada de dados, digite idade menor ou igual a zero. |
+| 21 | Faça um programa que receba o preço de um produto e seu código de origem e mostre sua procedência. A procedência obedece à tabela a seguir. |
+
+| Código de Origem | Procedência      |
+|------------------|------------------|
+| 1                | Sul              |
+| 2                | Norte            |
+| 3                | Leste            |
+| 4                | Oeste            |
+| 5 ou 6           | Nordeste         |
+| 7, 8 ou 9        | Sudeste          |
+| 10 a 20          | Centro-oeste     |
+| 21 a 30          | Nordeste         |
+
+| Questão | Enunciado |
+| ------- | --------- |
+| 22 | Faça um programa que receba a idade e o peso de uma pessoa. De acordo com a tabela a seguir, verifique
+e mostre em qual grupo de risco essa pessoa se encaixa.|
+
+| Idade                 | Peso Até 60 | Peso Entre 60 e 90 (inclusive) | Peso Acima de 90 |
+|-----------------------|-------------|--------------------------------|------------------|
+| Menores que 20        | 9           | 8                              | 7                |
+| De 20 a 50            | 6           | 5                              | 4                |
+| Maiores que 50        | 3           | 2                              | 1                |
+
 
