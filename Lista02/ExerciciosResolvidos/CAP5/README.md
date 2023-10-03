@@ -102,7 +102,7 @@ e salário final (salário inicial + auxílio alimentação).
 
 - Exemplo de saída do programa :
 
-  | Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela |
+| Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela |
 |------------------|------------------|-------------------------|-------------------|
 | R$ 1.000,00     | R$ 0,00          | 1                       | R$ 1.000,00       |
 | R$ 1.100,00     | R$ 100,00        | 3                       | R$ 366,67         |
