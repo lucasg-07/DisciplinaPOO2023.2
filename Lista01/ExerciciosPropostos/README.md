@@ -1,5 +1,12 @@
 Questão | Enunciado
 :---------: | :------:
+  01 | Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
+  02 | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+  03 | Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo
+segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar
+com validações.
+  04 | Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, consi-
+derando peso 2 para a primeira e peso 3 para a segunda.
   08 | Faça um programa que receba o pesq peso em gramas. 11| Faça um programa que calcule e mostre a área de um losango. Sabe-se que: A = (diagonal maior* diagonal menor)/2
   12 | Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
   14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
