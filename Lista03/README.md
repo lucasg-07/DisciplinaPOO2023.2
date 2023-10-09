@@ -1,4 +1,4 @@
-<h1 align="center">Lista 02</h1>
+<h1 align="center">Lista 03</h1>
 <div align="center">
   <h2>
     Capítulo 6: Vetor <br>
